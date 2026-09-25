@@ -13,8 +13,9 @@
     KAIST&nbsp;AI
   </p>
 
+  <h3 align="center">NeurIPS 2026</h3>
+
   <h3 align="center">
-    <a href="#">NeurIPS 2026</a> |
     <a href="#">Paper</a> |
     <a href="https://cvlab-kaist.github.io/T2Mo/">Project Page</a>
   </h3>
